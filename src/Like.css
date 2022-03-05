@@ -1,0 +1,18 @@
+.Likes {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+button {
+  width: 20px;
+  height: 20px;
+  background-color: #202020;
+  color: #bebebe ;
+  border-style: none;
+}
+
+h2 {
+  margin: -5px 75px;
+}

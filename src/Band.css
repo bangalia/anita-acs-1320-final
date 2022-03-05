@@ -1,0 +1,11 @@
+.Band {
+    margin-top: 20px;
+    border-style: double;
+    border-color: #4a4a4a;
+    padding-top: 0;
+    padding-bottom: 30px;
+  }
+  
+.Band h1 {
+    color: #ff0000f1;
+}
